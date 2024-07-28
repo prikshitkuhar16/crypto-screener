@@ -14,5 +14,5 @@ Crypto Screener is a web application that provides real-time information about v
 
 ## Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind
 - **API:** CoinGecko
